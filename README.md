@@ -1,27 +1,8 @@
-# AngularProject
+This a traning project for Angular,
+it has two components
+1. has a Table
+2. has a Contact templet
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Screenshot 2022-12-05 235236](https://user-images.githubusercontent.com/24588700/205754978-13f82297-a16d-4103-9054-c284985a62d9.png)
+![Screenshot 2022-12-05 235253](https://user-images.githubusercontent.com/24588700/205754982-9d78c209-2170-4b6e-ba9f-4c4762f38458.png)
